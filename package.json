@@ -1,0 +1,12 @@
+{
+  "name": "server-disconnect",
+  "version": "1.0.0",
+  "description": "Server Disconnect Test",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vassjozsef/server-disconnect"
+  },
+  "author": "Jozsef Vass",
+  "license": "MIT"
+}
